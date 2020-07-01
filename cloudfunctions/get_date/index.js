@@ -11,7 +11,6 @@ exports.main = async (event, context) => {
   try {
 
     return await db.collection('date').get();
-    console(db.collection('date').get());
 
   } catch (err) {
     console.log('云函数调用失败 err ==> ',err);

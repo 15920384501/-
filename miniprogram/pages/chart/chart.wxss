@@ -15,7 +15,7 @@
 }
 
 .chart .search{
-   background-color: #FEDB5B;
+   background-color: #FD997F;
    padding: 20rpx;
 }
 

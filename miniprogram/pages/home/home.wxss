@@ -1,17 +1,17 @@
 .home .month-box{
-  background-color: #FEDB5B;
+  background-color: #FD997F;
   padding: 60rpx;
 }
 
 .home .month-title{
-  color: #444;
+  color: #e8e8e8;
   font-size: 32rpx;
 }
 
 .home .month-money{
   margin-top: 20rpx;
   font-size: 64rpx;
-  color: #444; 
+  color: #fff; 
   font-weight: bold;
 }
 
@@ -20,7 +20,7 @@
   height: 60rpx;
   line-height: 60rpx;
   font-size: 28rpx;
-  color: #666;
+  color: #fff;
 }
 
 .home .month-item-box{

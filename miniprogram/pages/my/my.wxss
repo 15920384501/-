@@ -1,7 +1,7 @@
 .my .my-header{
   height: 160rpx;
   padding: 70rpx 0;
-  background-color: #FEDB5B;
+  background-color: #FD997F;
 }
 
 .my .my-info{
@@ -23,7 +23,7 @@
 }
 
 .my .nickname{
-  color: #444;
+  color: #fff;
   margin-left: 40rpx;
   line-height: 160rpx;
   font-size: 32rpx;

@@ -1,6 +1,6 @@
 .booking .booking-bg{
   height: 160rpx;
-  background-color: #EAB93F;
+  background-color: #E08679;
 }
 
 .booking .booking-box{

@@ -10,9 +10,9 @@
     
   ],
   "window": {
-    "navigationBarBackgroundColor": "#FEDB5B",
-    "navigationBarTitleText": "小康记",
-    "navigationBarTextStyle": "black"
+    "navigationBarBackgroundColor": "#FD997F",
+    "navigationBarTitleText": "MorF",
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "color": "#CDCDCD",
